@@ -19,6 +19,9 @@ Elke seconde ongeveer spawnt er een nieuw blok die jij daarna moet neerschieten,
 **Hoeveel awards heeft dit spel?**
 <br>Minimaal 10
 
+**WAAROM???!**
+<br>Waarom niet? Het laat op een leuke manier zien wat je met FXGL kan :)
+
 ## Credits
 Sounds from: Royalty free music from https://www.FesliyanStudios.com
 Music from: https://www.youtube.com/watch?v=TJW2KwuBVbE (if you have any issues with the audio being used, hit me up in an issue).
