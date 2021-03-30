@@ -20,4 +20,5 @@ Elke seconde ongeveer spawnt er een nieuw blok die jij daarna moet neerschieten,
 <br>Minimaal 10
 
 ## Credits
-Royalty free music from https://www.FesliyanStudios.com
+Sounds from: Royalty free music from https://www.FesliyanStudios.com
+Music from: https://www.youtube.com/watch?v=TJW2KwuBVbE (if you have any issues with the audio being used, hit me up in an issue).
