@@ -25,6 +25,7 @@ public class GameEntityFactory implements EntityFactory {
                 .viewWithBBox(box)
                 .at(data.getX(), data.getY())
                 .collidable()
+                .with(new OffscreenCleanComponent())
                 .build();
     }
 
@@ -32,12 +33,12 @@ public class GameEntityFactory implements EntityFactory {
 
     @Spawns("block")
     public Entity block(SpawnData data) {
-        var top = new Rectangle(20, 20, Color.RED);
-        top.setStroke(Color.RED);
+        var box = new Rectangle(32, 32, Color.rgb(1, 1, 1, 0));
 
         return entityBuilder()
                 .type(Types.BLOCK)
-                .viewWithBBox(top)
+                .view("amogus.png")
+                .viewWithBBox(box)
                 .at(data.getX(), data.getY())
                 .collidable()
                 .build();
